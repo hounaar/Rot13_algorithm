@@ -1,0 +1,20 @@
+body{
+    background-color: #EDEDED !important;
+}
+.container .title{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+.form-group .btn-primary{
+    text-align: center;
+}
+.form-group .code{
+    border-radius: 25px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    color:#007C49;
+    background-color:#B7FFE1;
+    border: #007C49 solid 1px;
+    display: none;
+
+}
